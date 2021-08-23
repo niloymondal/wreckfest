@@ -1,0 +1,17 @@
+﻿Build started 4/23/2019 1:14:35 AM.
+     1>Project "D:\1.2 Semester\Final Project\iGraphicsUltimate\iGraphics Project\iGraphics Project\iGraphics Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\iGraphics Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         iGraphics Project.vcxproj -> D:\1.2 Semester\Final Project\iGraphicsUltimate\iGraphics Project\Debug\iGraphics Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\iGraphics Project.unsuccessfulbuild".
+         Touching "Debug\iGraphics Project.lastbuildstate".
+     1>Done Building Project "D:\1.2 Semester\Final Project\iGraphicsUltimate\iGraphics Project\iGraphics Project\iGraphics Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
